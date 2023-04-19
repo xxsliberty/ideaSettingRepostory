@@ -1,0 +1,7 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="IncrementalSearch" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl k" />
+  </action>
+</keymap>
